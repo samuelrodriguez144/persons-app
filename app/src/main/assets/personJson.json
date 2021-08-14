@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "first_name": "Samuel",
+    "last_name": "Rodriguez",
+    "birthday": "04-11-1995",
+    "email_address": "lelouch_rodriguez@yahoo.com",
+    "mobile_number": "09275446576",
+    "address": "QC",
+    "contact_person": "Sherrie Rodriguez",
+    "contact_person_number": "09275446577"
+  },
+  {
+    "id": 2,
+    "first_name": "Lelouch",
+    "last_name": "Rodriguez",
+    "birthday": "04-11-1996",
+    "email_address": "lelouch_rodriguez@yahoo.com",
+    "mobile_number": "09275446576",
+    "address": "QC",
+    "contact_person": "Sherrie Rodriguez",
+    "contact_person_number": "09275446577"
+  },
+  {
+    "id": 3,
+    "first_name": "Kada Jhin",
+    "last_name": "Rodriguez",
+    "birthday": "04-11-1985",
+    "email_address": "lelouch_rodriguez@yahoo.com",
+    "mobile_number": "09275446576",
+    "address": "QC",
+    "contact_person": "Sherrie Rodriguez",
+    "contact_person_number": "09275446577"
+  }
+]
